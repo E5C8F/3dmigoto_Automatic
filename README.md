@@ -1,4 +1,4 @@
-[3dmigoto一键自动化](https://github.com/E5C8F/3dmigoto_automatic/)又名3dmigoto_Automatic。本工具旨在开发一款轻量化、绿色化、自动化、多功能化的智能工具，以解决3dmigoto使用过程中遇到的各种问题。
+[3dmigoto一键自动化工具](https://github.com/E5C8F/3dmigoto_automatic/)又名3dmigoto_Automatic。本工具旨在开发一款轻量化、绿色化、自动化、多功能化的智能工具，以解决3dmigoto使用过程中遇到的各种问题。
 
 ### 前置说明
 1、完整的原神游戏文件（预计后期会支持星铁游戏）
