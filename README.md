@@ -1,9 +1,9 @@
-[3dmigoto一键自动化工具](https://github.com/E5C8F/3dmigoto_automatic/)又名3dmigoto_Automatic。本工具旨在开发一款轻量化、绿色化、自动化、多功能化的智能工具，以解决3dmigoto使用过程中遇到的各种问题。
+[实测视频.txt](https://github.com/E5C8F/3dmigoto_Automatic/files/15232865/default.txt)[实测视频.txt](https://github.com/E5C8F/3dmigoto_Automatic/files/15232848/default.txt)[3dmigoto一键自动化工具](https://github.com/E5C8F/3dmigoto_automatic/)又名3dmigoto_Automatic。本工具旨在开发一款轻量化、绿色化、自动化、多功能化的智能工具，以解决3dmigoto使用过程中遇到的各种问题。
 
 ### 前置说明
 1、完整的原神游戏文件（预计后期会支持星铁游戏）
 
-2、Windows系统，已测试windows11、windows10           
+2、Windows系统，已测试windows11、windows10            
 
 3、Visual C++ Redistributable for Visual Studio 2015-2022，一般通过正常步骤安装原神会自动安装此前置运行库。 
 
@@ -37,3 +37,9 @@
 
 14、一键修复/重置功能，3dmigoto使用过程中，可能会出现各种影响正常使用的错误，比如地图异常、体力条异常等，可以通过此功能对3dmigoto进行不影响Mods文件夹数据的重置操作。
 
+### 实测视频
+
+[实测视频.zip](https://github.com/E5C8F/3dmigoto_Automatic/files/15232876/default.zip)
+
+### 声明
+本工具不得用于违反你所在国家和地区法律的任何途径。
