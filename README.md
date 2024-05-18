@@ -9,7 +9,7 @@
 
 ### 功能介绍
 
-1、支持3dmigoto-GIMI-for-development和3dmigoto-GIMI-for-playing-mods 版本                            
+1、内置并支持3dmigoto-GIMI-for-development和3dmigoto-GIMI-for-playing-mods 版本                            
 
 2、支持官服、B服、国际服、渠道服。
 
