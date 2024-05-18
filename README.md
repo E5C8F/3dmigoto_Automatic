@@ -42,4 +42,4 @@
 [实测视频.zip](https://github.com/E5C8F/3dmigoto_Automatic/files/15232876/default.zip)
 
 ### 声明
-本工具不得用于违反你所在国家和地区法律的任何途径。
+本工具仅供学习，不得用于违反你所在国家和地区法律的任何途径。
