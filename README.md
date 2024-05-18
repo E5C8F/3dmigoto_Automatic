@@ -11,7 +11,7 @@
 
 1、内置并支持3dmigoto-GIMI-for-development和3dmigoto-GIMI-for-playing-mods 版本                            
 
-2、支持官服、B服、国际服、渠道服。
+2、支持官服、B服、国际服、渠道服。B服使用前请在设置里选择B服或者通过内置工具切换为B服。
 
 3、3dmigoto-GIMI-for-development和3dmigoto-GIMI-for-playing-mods 版本自由切换                               
 
