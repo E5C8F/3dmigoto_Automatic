@@ -37,6 +37,10 @@
 
 14、一键修复/重置功能，3dmigoto使用过程中，可能会出现各种影响正常使用的错误，比如地图异常、体力条异常等，可以通过此功能对3dmigoto进行不影响Mods文件夹数据的重置操作。
 
+15、后台执行功能
+
+16、桌面快捷方式
+
 ### 实测视频
 
 [实测视频.zip](https://github.com/E5C8F/3dmigoto_Automatic/files/15232876/default.zip)
