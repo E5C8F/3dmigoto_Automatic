@@ -41,6 +41,8 @@
 
 16、桌面快捷方式
 
+17、系统修复
+
 ### 实测视频
 
 [实测视频.zip](https://github.com/E5C8F/3dmigoto_Automatic/files/15232876/default.zip)
