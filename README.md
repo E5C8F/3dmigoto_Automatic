@@ -1,17 +1,17 @@
 [3dmigoto一键自动化工具](https://github.com/E5C8F/3dmigoto_automatic/)又名3dmigoto_Automatic或3dmigoto一键综合版。本工具旨在开发一款轻量化、绿色化、自动化、多功能化的智能工具，以解决3dmigoto使用过程中遇到的各种问题。
 
 ### 前置说明
-1、完整的原神游戏文件（预计后期会支持星铁游戏）
+1、完整的原神或星铁或鸣潮游戏文件（预计后期会支持更多游戏）
 
 2、Windows系统，已测试windows11、windows10，非正版或有缺失的系统可能不支持。
 
-3、Visual C++ Redistributable for Visual Studio 2015-2022，一般通过正常步骤安装原神会自动安装此前置运行库。 
+3、Visual C++ Redistributable for Visual Studio 2015-2022，一般通过正常步骤安装原神或星铁或鸣潮会自动安装此前置运行库。 
 
 ### 功能介绍
 
-1、内置并支持3dmigoto-GIMI-for-development和3dmigoto-GIMI-for-playing-mods 版本                            
+1、内置并支持3dmigoto-GIMI-for-development、3dmigoto-GIMI-for-playing-mods、3dmigoto.SRMI.for.development、3dmigoto.SRMI.for.playing.mods 版本                            
 
-2、支持官服、B服、国际服、渠道服。B服使用前请在设置里选择B服或者通过内置工具切换为B服。
+2、支持原神官服、B服、国际服、渠道服。B服使用前请在设置里选择B服或者通过内置工具切换为B服。
 
 3、3dmigoto-GIMI-for-development和3dmigoto-GIMI-for-playing-mods 版本自由切换                               
 
@@ -42,6 +42,10 @@
 16、桌面快捷方式
 
 17、系统修复
+
+18、智能判断游戏并选择3dm版本
+
+19、第三方兼容启动
 
 ### 实测视频
 
