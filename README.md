@@ -3,7 +3,7 @@
 ### 前置说明
 1、完整的原神或星铁或鸣潮游戏文件（预计后期会支持更多游戏）
 
-2、Windows系统，已测试windows11、windows10，非正版或有缺失的系统可能不支持。
+2、Windows系统，已测试windows11，非正版或有缺失的系统可能不支持。
 
 3、Visual C++ Redistributable for Visual Studio 2015-2022，一般通过正常步骤安装原神或星铁或鸣潮会自动安装此前置运行库。 
 
