@@ -47,6 +47,8 @@
 
 19、第三方兼容启动
 
+20、中文路径兼容
+
 ### 实测视频
 
 [实测视频.zip](https://github.com/E5C8F/3dmigoto_Automatic/files/15232876/default.zip)
