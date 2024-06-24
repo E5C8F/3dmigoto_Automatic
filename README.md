@@ -7,7 +7,7 @@
 
 3、Visual C++ Redistributable for Visual Studio 2015-2022，一般通过正常步骤安装原神或星铁或鸣潮会自动安装此前置运行库。 
 
-### 功能介绍
+### 功能介绍（以更新日志为准，有时此介绍可能有疏漏）
 
 1、内置并支持3dmigoto-GIMI-for-development、3dmigoto-GIMI-for-playing-mods、3dmigoto.SRMI.for.development、3dmigoto.SRMI.for.playing.mods 版本                            
 
@@ -48,6 +48,8 @@
 19、第三方兼容启动
 
 20、中文路径兼容
+
+21、mod自动分类
 
 ### 实测视频
 
