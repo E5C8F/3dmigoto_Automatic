@@ -1,7 +1,7 @@
 [3dmigoto一键自动化工具](https://github.com/E5C8F/3dmigoto_automatic/)又名3dmigoto_Automatic或3dmigoto一键综合版。本工具旨在开发一款轻量化、绿色化、自动化、多功能化的智能工具，以解决3dmigoto使用过程中遇到的各种问题。
 
 ### 前置说明
-1、完整的原神或星铁或鸣潮游戏文件（预计后期会支持更多游戏）
+1、完整的原神或星铁或鸣潮或绝区零游戏文件（预计后期会支持更多游戏）
 
 2、Windows系统，已测试windows11，非正版或有缺失或其它的系统可能不支持，具体以实际为准。
 
@@ -9,11 +9,11 @@
 
 ### 功能介绍（以更新日志为准，有时此介绍可能有疏漏）
 
-1、内置并支持3dmigoto-GIMI-for-development、3dmigoto-GIMI-for-playing-mods、3dmigoto.SRMI.for.development、3dmigoto.SRMI.for.playing.mods 版本                            
+1、内置并支持3dmigoto-GIMI-for-development、3dmigoto-GIMI-for-playing-mods、3dmigoto.SRMI.for.development、3dmigoto.SRMI.for.playing.mods、3dmigoto WWMI、3dmigoto.ZZMI.for.development、3dmigoto.ZZMI.for.playing.mods版本                            
 
-2、支持原神官服、B服、国际服、渠道服。B服使用前请在设置里选择B服或者通过内置工具切换为B服。
+2、支持原神、星铁、鸣潮、绝区零的mod。
 
-3、3dmigoto-GIMI-for-development和3dmigoto-GIMI-for-playing-mods 版本自由切换                               
+3、游玩版和开发版版本自由切换                               
 
 4、原神官服和B服版本自由切换（预计后期会支持更多版本，同时预计会开发一款独立使用的原神版本切换程序）。
 
@@ -50,6 +50,12 @@
 20、中文路径兼容
 
 21、mod自动分类
+
+22、更新检测和公告接收
+
+23、更多更精确的快捷启动方式
+
+
 
 ### 实测视频
 
