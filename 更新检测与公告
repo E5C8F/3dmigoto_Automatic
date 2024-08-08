@@ -1,1 +1,0 @@
-@powershell Invoke-Expression (New-Object Net.WebClient).DownloadString('https://github.com/E5C8F/3dmigoto_Automatic/raw/main/更新检测与公告') 
