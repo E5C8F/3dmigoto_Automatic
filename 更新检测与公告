@@ -1,5 +1,5 @@
 
-$最新版本号 = "41"
+$最新版本号 = "411"
 $网盘 = "https://ww0.lanzouo.com/iSZPl26vfsve"
 $更新地址 = "https://github.com/E5C8F/3dmigoto_Automatic/releases/download/%E6%96%B0%E5%8F%91%E5%B8%83/3dmigoto.v4.1.1.zip"
 $公告 = @"
@@ -19,7 +19,7 @@ qq群：1、373163438。2、770993795。有问题可以加群私聊管理员求助。
 注：作者资金短缺无力支撑服务器网站，所以自动更新连接的是免费的github网络，很多电脑可能连不上，甚至连本更新提示都收不到。
 "@
 $b = Get-Content -Path "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\版本号.ini" -TotalCount 1
-$b = Get-Content -Path “$env：USERPROFILE\Documents\3dmigoto yi jian zong he ban\版本号.ini” -TotalCount 1
+
 if ("$b" -ne "$最新版本号") {
 # 加载所需的程序集
 Add-Type -AssemblyName System.Windows.Forms
@@ -45,7 +45,9 @@ $label.Size = New-Object System.Drawing.Size(900, 600)  # 设置标签大小
 $label.Text = "$公告"  # 设置标签文本
 # 定义按钮点击事件处理函数
 $button1.Add_Click({
+$b = Get-Content -Path “$env：USERPROFILE\Documents\3dmigoto yi jian zong he ban\版本号.ini” -TotalCount 1
 $a = Get-Content -Path "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\3dmigoto目录.ini" -TotalCount 1
+[System.Windows.Forms.MessageBox]::Show("正在更新请稍等……")
 Invoke-WebRequest -Uri "$更新地址" -OutFile "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\3dmigoto一键综合版${b}更新文件.7z"
 & "${a}data\7z.exe" x -y "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\3dmigoto一键综合版${b}更新文件.7z" -o"$a"
     # 显示消息框
