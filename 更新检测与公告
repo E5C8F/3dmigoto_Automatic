@@ -1,8 +1,15 @@
 
 
 $更新地址 = "https://example.com/path/to/your/file.zip"
-$公告 = ""
-$最新版本号 = 
+$公告 = @"
+时间：2024/08/8 14：00
+版本：3dmigoto一键综合版4.1.1
+更新&修复：
+1、新增联网更新功能（资金短缺无力支撑服务器网站，所以连接的是免费的github网络，很多电脑可能连不上。）
+2、优化cmd界面上启动入口（图标）的显示排序。
+3、添加7z压缩包解压功能，以解压文件（内置文件和更新文件）。
+"@
+$最新版本号 = "411"
 
 $b = Get-Content -Path "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\版本号.ini" -TotalCount 1
 
