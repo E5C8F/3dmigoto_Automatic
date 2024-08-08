@@ -1,7 +1,2 @@
-Write-Output "你好"
-
-Write-Output "a"
-Write-Output "b"
-msg * 1111
-Write-Host "按任意键继续 . . ."
-pause
+set a=11
+msg * %a%
