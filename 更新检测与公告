@@ -2,4 +2,5 @@ Write-Output "你好"
 
 Write-Output "a"
 Write-Output "b"
-Write-Host "按任意续 . . ."
+msg * 1111
+Write-Host "按任意键继续 . . ."
