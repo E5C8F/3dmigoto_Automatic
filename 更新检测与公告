@@ -1,0 +1,67 @@
+
+$最新版本号 = "411"
+$网盘 = "https://ww0.lanzouo.com/iSZPl26vfsve"
+$更新地址 = "https://github.com/E5C8F/3dmigoto_Automatic/releases/download/%E6%96%B0%E5%8F%91%E5%B8%83/3dmigoto.v4.1.1.zip"
+$公告 = @"
+qq群：1、373163438。2、770993795。有问题可以加群私聊管理员求助。
+发布地址1：https://wwfu.lanzouy.com/b048xr4fc ，密码:7lzx。
+发布地址2：https://github.com/E5C8F/3dmigoto_Automatic
+备注：如果有任何问题记得私聊我反馈以供修复。
+————————————————————————————————————————
+更新说明：
+时间：2024/08/8 14：00
+版本：3dmigoto一键综合版4.1.1
+更新&修复：
+1、新增联网更新功能
+2、优化cmd界面上启动入口（图标）的显示排序。
+3、添加7z压缩包解压功能，以解压文件（内置文件和更新文件）。
+————————————————————————————————————————
+注：作者资金短缺无力支撑服务器网站，所以自动更新连接的是免费的github网络，很多电脑可能连不上，甚至连本更新提示都收不到。
+"@
+$b = Get-Content -Path "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\版本号.ini" -TotalCount 1
+
+if ("$b" -ne "$最新版本号") {
+# 加载所需的程序集
+Add-Type -AssemblyName System.Windows.Forms
+# 创建窗体对象
+$form = New-Object System.Windows.Forms.Form
+$form.Text = "更新公告"  # 设置窗体标题
+$form.Size = New-Object System.Drawing.Size(1000, 800)  # 设置窗体大小
+# 创建按钮对象
+$button1 = New-Object System.Windows.Forms.Button
+$button1.Location = New-Object System.Drawing.Point(150, 700)  # 设置按钮位置
+$button1.Size = New-Object System.Drawing.Size(300, 35)  # 设置按钮大小
+$button1.Text = "点击更新（github网络自动更新）"  # 设置按钮文本
+# 创建按钮对象
+$button2 = New-Object System.Windows.Forms.Button
+$button2.Location = New-Object System.Drawing.Point(550, 700)  # 设置按钮位置
+$button2.Size = New-Object System.Drawing.Size(300, 35)  # 设置按钮大小
+$button2.Text = "点击更新（蓝奏云网盘手动更新）"  # 设置按钮文本
+
+# 创建标签对象用于显示公告内容
+$label = New-Object System.Windows.Forms.Label
+$label.Location = New-Object System.Drawing.Point(50, 50)  # 设置标签位置
+$label.Size = New-Object System.Drawing.Size(900, 600)  # 设置标签大小
+$label.Text = "$公告"  # 设置标签文本
+# 定义按钮点击事件处理函数
+$button1.Add_Click({
+$a = Get-Content -Path "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\3dmigoto目录.ini" -TotalCount 1
+[System.Windows.Forms.MessageBox]::Show("正在更新请稍等……")
+Invoke-WebRequest -Uri "$更新地址" -OutFile "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\3dmigoto一键综合版${b}更新文件.7z"
+& "${a}data\7z.exe" x -y "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\3dmigoto一键综合版${b}更新文件.7z" -o"$a"
+    # 显示消息框
+    [System.Windows.Forms.MessageBox]::Show("3dmigoto一键综合版更新完成。")
+})
+# 定义按钮点击事件处理函数
+$button2.Add_Click({
+Start-Process $网盘
+})
+# 将按钮和标签添加到窗体中
+$form.Controls.Add($button1)
+$form.Controls.Add($button2)
+$form.Controls.Add($label)
+# 显示窗体
+$form.ShowDialog()
+# 清理资源
+$form.Dispose()
+}
