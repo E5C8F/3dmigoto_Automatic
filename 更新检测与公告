@@ -1,75 +1,66 @@
 
-$æœ€æ–°ç‰ˆæœ¬å· = "41"
-$ç½‘ç›˜ = "https://ww0.lanzouo.com/iSZPl26vfsve"
-$æ›´æ–°åœ°å€ = "https://github.com/E5C8F/3dmigoto_Automatic/releases/download/%E6%96%B0%E5%8F%91%E5%B8%83/3dmigoto.v4.1.1.zip"
-$å…¬å‘Š = @"
-qqç¾¤ï¼š1ã€373163438ã€‚2ã€770993795ã€‚æœ‰é—®é¢˜å¯ä»¥åŠ ç¾¤ç§èŠç®¡ç†å‘˜æ±‚åŠ©ã€‚
-å‘å¸ƒåœ°å€1ï¼šhttps://wwfu.lanzouy.com/b048xr4fc ï¼Œå¯†ç :7lzxã€‚
-å‘å¸ƒåœ°å€2ï¼šhttps://github.com/E5C8F/3dmigoto_Automatic
-å¤‡æ³¨ï¼šå¦‚æœæœ‰ä»»ä½•é—®é¢˜è®°å¾—ç§èŠæˆ‘åé¦ˆä»¥ä¾›ä¿®å¤ã€‚
-â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
-æ›´æ–°è¯´æ˜ï¼š
-æ—¶é—´ï¼š2024/08/8 14ï¼š00
-ç‰ˆæœ¬ï¼š3dmigotoä¸€é”®ç»¼åˆç‰ˆ4.1.1
-æ›´æ–°&ä¿®å¤ï¼š
-1ã€æ–°å¢è”ç½‘æ›´æ–°åŠŸèƒ½
-2ã€ä¼˜åŒ–cmdç•Œé¢ä¸Šå¯åŠ¨å…¥å£ï¼ˆå›¾æ ‡ï¼‰çš„æ˜¾ç¤ºæ’åºã€‚
-3ã€æ·»åŠ 7zå‹ç¼©åŒ…è§£å‹åŠŸèƒ½ï¼Œä»¥è§£å‹æ–‡ä»¶ï¼ˆå†…ç½®æ–‡ä»¶å’Œæ›´æ–°æ–‡ä»¶ï¼‰ã€‚
-â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”â€”
-æ³¨ï¼šä½œè€…èµ„é‡‘çŸ­ç¼ºæ— åŠ›æ”¯æ’‘æœåŠ¡å™¨ç½‘ç«™ï¼Œæ‰€ä»¥è‡ªåŠ¨æ›´æ–°è¿æ¥çš„æ˜¯å…è´¹çš„githubç½‘ç»œï¼Œå¾ˆå¤šç”µè„‘å¯èƒ½è¿ä¸ä¸Šï¼Œç”šè‡³è¿æœ¬æ›´æ–°æç¤ºéƒ½æ”¶ä¸åˆ°ã€‚
+$×îĞÂ°æ±¾ºÅ = "41"
+$ÍøÅÌ = "https://ww0.lanzouo.com/iSZPl26vfsve"
+$¸üĞÂµØÖ· = "https://github.com/E5C8F/3dmigoto_Automatic/releases/download/%E6%96%B0%E5%8F%91%E5%B8%83/3dmigoto.v4.1.1.zip"
+$¹«¸æ = @"
+qqÈº£º1¡¢373163438¡£2¡¢770993795¡£ÓĞÎÊÌâ¿ÉÒÔ¼ÓÈºË½ÁÄ¹ÜÀíÔ±ÇóÖú¡£
+·¢²¼µØÖ·1£ºhttps://wwfu.lanzouy.com/b048xr4fc £¬ÃÜÂë:7lzx¡£
+·¢²¼µØÖ·2£ºhttps://github.com/E5C8F/3dmigoto_Automatic
+±¸×¢£ºÈç¹ûÓĞÈÎºÎÎÊÌâ¼ÇµÃË½ÁÄÎÒ·´À¡ÒÔ¹©ĞŞ¸´¡£
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+¸üĞÂËµÃ÷£º
+Ê±¼ä£º2024/08/8 14£º00
+°æ±¾£º3dmigotoÒ»¼ü×ÛºÏ°æ4.1.1
+¸üĞÂ&ĞŞ¸´£º
+1¡¢ĞÂÔöÁªÍø¸üĞÂ¹¦ÄÜ
+2¡¢ÓÅ»¯cmd½çÃæÉÏÆô¶¯Èë¿Ú£¨Í¼±ê£©µÄÏÔÊ¾ÅÅĞò¡£
+3¡¢Ìí¼Ó7zÑ¹Ëõ°ü½âÑ¹¹¦ÄÜ£¬ÒÔ½âÑ¹ÎÄ¼ş£¨ÄÚÖÃÎÄ¼şºÍ¸üĞÂÎÄ¼ş£©¡£
+¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª¡ª
+×¢£º×÷Õß×Ê½ğ¶ÌÈ±ÎŞÁ¦Ö§³Å·şÎñÆ÷ÍøÕ¾£¬ËùÒÔ×Ô¶¯¸üĞÂÁ¬½ÓµÄÊÇÃâ·ÑµÄgithubÍøÂç£¬ºÜ¶àµçÄÔ¿ÉÄÜÁ¬²»ÉÏ£¬ÉõÖÁÁ¬±¾¸üĞÂÌáÊ¾¶¼ÊÕ²»µ½¡£
 "@
-
-$b = Get-Content -Path "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\ç‰ˆæœ¬å·.ini" -TotalCount 1
-
-if ("$b" -ne "$æœ€æ–°ç‰ˆæœ¬å·") {
-# åŠ è½½æ‰€éœ€çš„ç¨‹åºé›†
+$b = Get-Content -Path "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\°æ±¾ºÅ.ini" -TotalCount 1
+$b = Get-Content -Path ¡°$env£ºUSERPROFILE\Documents\3dmigoto yi jian zong he ban\°æ±¾ºÅ.ini¡± -TotalCount 1
+if ("$b" -ne "$×îĞÂ°æ±¾ºÅ") {
+# ¼ÓÔØËùĞèµÄ³ÌĞò¼¯
 Add-Type -AssemblyName System.Windows.Forms
-
-# åˆ›å»ºçª—ä½“å¯¹è±¡
+# ´´½¨´°Ìå¶ÔÏó
 $form = New-Object System.Windows.Forms.Form
-$form.Text = "æ›´æ–°å…¬å‘Š"  # è®¾ç½®çª—ä½“æ ‡é¢˜
-$form.Size = New-Object System.Drawing.Size(1000, 800)  # è®¾ç½®çª—ä½“å¤§å°
-
-# åˆ›å»ºæŒ‰é’®å¯¹è±¡
+$form.Text = "¸üĞÂ¹«¸æ"  # ÉèÖÃ´°Ìå±êÌâ
+$form.Size = New-Object System.Drawing.Size(1000, 800)  # ÉèÖÃ´°Ìå´óĞ¡
+# ´´½¨°´Å¥¶ÔÏó
 $button1 = New-Object System.Windows.Forms.Button
-$button1.Location = New-Object System.Drawing.Point(150, 700)  # è®¾ç½®æŒ‰é’®ä½ç½®
-$button1.Size = New-Object System.Drawing.Size(300, 35)  # è®¾ç½®æŒ‰é’®å¤§å°
-$button1.Text = "ç‚¹å‡»æ›´æ–°ï¼ˆgithubç½‘ç»œè‡ªåŠ¨æ›´æ–°ï¼‰"  # è®¾ç½®æŒ‰é’®æ–‡æœ¬
-
-# åˆ›å»ºæŒ‰é’®å¯¹è±¡
+$button1.Location = New-Object System.Drawing.Point(150, 700)  # ÉèÖÃ°´Å¥Î»ÖÃ
+$button1.Size = New-Object System.Drawing.Size(300, 35)  # ÉèÖÃ°´Å¥´óĞ¡
+$button1.Text = "µã»÷¸üĞÂ£¨githubÍøÂç×Ô¶¯¸üĞÂ£©"  # ÉèÖÃ°´Å¥ÎÄ±¾
+# ´´½¨°´Å¥¶ÔÏó
 $button2 = New-Object System.Windows.Forms.Button
-$button2.Location = New-Object System.Drawing.Point(550, 700)  # è®¾ç½®æŒ‰é’®ä½ç½®
-$button2.Size = New-Object System.Drawing.Size(300, 35)  # è®¾ç½®æŒ‰é’®å¤§å°
-$button2.Text = "ç‚¹å‡»æ›´æ–°ï¼ˆè“å¥äº‘ç½‘ç›˜æ‰‹åŠ¨æ›´æ–°ï¼‰"  # è®¾ç½®æŒ‰é’®æ–‡æœ¬
+$button2.Location = New-Object System.Drawing.Point(550, 700)  # ÉèÖÃ°´Å¥Î»ÖÃ
+$button2.Size = New-Object System.Drawing.Size(300, 35)  # ÉèÖÃ°´Å¥´óĞ¡
+$button2.Text = "µã»÷¸üĞÂ£¨À¶×àÔÆÍøÅÌÊÖ¶¯¸üĞÂ£©"  # ÉèÖÃ°´Å¥ÎÄ±¾
 
-
-# åˆ›å»ºæ ‡ç­¾å¯¹è±¡ç”¨äºæ˜¾ç¤ºå…¬å‘Šå†…å®¹
+# ´´½¨±êÇ©¶ÔÏóÓÃÓÚÏÔÊ¾¹«¸æÄÚÈİ
 $label = New-Object System.Windows.Forms.Label
-$label.Location = New-Object System.Drawing.Point(50, 50)  # è®¾ç½®æ ‡ç­¾ä½ç½®
-$label.Size = New-Object System.Drawing.Size(900, 600)  # è®¾ç½®æ ‡ç­¾å¤§å°
-$label.Text = "$å…¬å‘Š"  # è®¾ç½®æ ‡ç­¾æ–‡æœ¬
-
-# å®šä¹‰æŒ‰é’®ç‚¹å‡»äº‹ä»¶å¤„ç†å‡½æ•°
+$label.Location = New-Object System.Drawing.Point(50, 50)  # ÉèÖÃ±êÇ©Î»ÖÃ
+$label.Size = New-Object System.Drawing.Size(900, 600)  # ÉèÖÃ±êÇ©´óĞ¡
+$label.Text = "$¹«¸æ"  # ÉèÖÃ±êÇ©ÎÄ±¾
+# ¶¨Òå°´Å¥µã»÷ÊÂ¼ş´¦Àíº¯Êı
 $button1.Add_Click({
-$a = Get-Content -Path "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\3dmigotoç›®å½•.ini" -TotalCount 1
-Invoke-WebRequest -Uri "$æ›´æ–°åœ°å€" -OutFile "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\3dmigotoä¸€é”®ç»¼åˆç‰ˆ${b}æ›´æ–°æ–‡ä»¶.7z"
-& "${a}data\7z.exe" x -y "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\3dmigotoä¸€é”®ç»¼åˆç‰ˆ${b}æ›´æ–°æ–‡ä»¶.7z" -o"$a"
-    # æ˜¾ç¤ºæ¶ˆæ¯æ¡†
-    [System.Windows.Forms.MessageBox]::Show("3dmigotoä¸€é”®ç»¼åˆç‰ˆæ›´æ–°å®Œæˆï¼Œå½“å‰ç‰ˆæœ¬å·ä¸ºï¼š${b}")
+$a = Get-Content -Path "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\3dmigotoÄ¿Â¼.ini" -TotalCount 1
+Invoke-WebRequest -Uri "$¸üĞÂµØÖ·" -OutFile "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\3dmigotoÒ»¼ü×ÛºÏ°æ${b}¸üĞÂÎÄ¼ş.7z"
+& "${a}data\7z.exe" x -y "$env:USERPROFILE\Documents\3dmigoto yi jian zong he ban\3dmigotoÒ»¼ü×ÛºÏ°æ${b}¸üĞÂÎÄ¼ş.7z" -o"$a"
+    # ÏÔÊ¾ÏûÏ¢¿ò
+    [System.Windows.Forms.MessageBox]::Show("3dmigotoÒ»¼ü×ÛºÏ°æ¸üĞÂÍê³É£¬µ±Ç°°æ±¾ºÅÎª£º${b}")
 })
-# å®šä¹‰æŒ‰é’®ç‚¹å‡»äº‹ä»¶å¤„ç†å‡½æ•°
+# ¶¨Òå°´Å¥µã»÷ÊÂ¼ş´¦Àíº¯Êı
 $button2.Add_Click({
-Start-Process $ç½‘ç›˜
+Start-Process $ÍøÅÌ
 })
-# å°†æŒ‰é’®å’Œæ ‡ç­¾æ·»åŠ åˆ°çª—ä½“ä¸­
+# ½«°´Å¥ºÍ±êÇ©Ìí¼Óµ½´°ÌåÖĞ
 $form.Controls.Add($button1)
 $form.Controls.Add($button2)
 $form.Controls.Add($label)
-
-# æ˜¾ç¤ºçª—ä½“
+# ÏÔÊ¾´°Ìå
 $form.ShowDialog()
-
-# æ¸…ç†èµ„æº
+# ÇåÀí×ÊÔ´
 $form.Dispose()
-
 }
