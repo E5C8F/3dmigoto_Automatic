@@ -1,1 +1,3 @@
- msg * 你好
+msg * 你好
+echo 你好
+pause
