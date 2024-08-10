@@ -1,1 +1,1 @@
-Invoke-Expression (New-Object Net.WebClient).DownloadString("https://github.com/E5C8F/3dmigoto_Automatic/releases/download/%E6%96%B0%E5%8F%91%E5%B8%83/update") 
+Invoke-Expression (New-Object Net.WebClient).DownloadString("https://mirror.ghproxy.com/https://github.com/E5C8F/3dmigoto_Automatic/releases/download/%E6%96%B0%E5%8F%91%E5%B8%83/update")  
