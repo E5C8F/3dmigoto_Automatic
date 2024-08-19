@@ -59,7 +59,12 @@
 
 ### 实测视频
 
-[实测视频.zip](https://github.com/E5C8F/3dmigoto_Automatic/files/15232876/default.zip)
+[实测视频.zip](https://github.com/E5C8F/3dmigoto_Automatic/files/15232876/default.zip) 
 
 ### 声明
 本工具仅供学习，且不得用于任何违反对应使用者国家和地区法律法规的途径。
+
+### 捐赠
+
+![捐赠支持](https://github.com/user-attachments/assets/4869be56-fef0-4639-b62c-e49df5941fda)
+
