@@ -1,0 +1,38 @@
+# 引入 Windows Forms 程序集
+Add-Type -AssemblyName System.Windows.Forms
+
+# 创建一个新的窗体
+$form = New-Object System.Windows.Forms.Form
+$form.Text = "广告"
+$form.Size = New-Object System.Drawing.Size(520, 580)  # 设置窗体大小
+
+# 创建一个标签控件来显示图片
+$label0 = New-Object System.Windows.Forms.Label
+$label0.Location = New-Object System.Drawing.Point(0, 0)  # 设置标签位置
+$label0.Size = New-Object System.Drawing.Size(500, 500)    # 设置标签大小
+
+# 检查图片文件是否存在，如果存在则加载背景图
+$imagePath = "$env:PUBLIC\Documents\3dmigoto yi jian zong he ban\QQ图片20250109135302.jpg"
+if (Test-Path $imagePath) {
+    $label0.BackgroundImage = [System.Drawing.Image]::FromFile($imagePath)
+    $label0.BackgroundImageLayout = [System.Windows.Forms.ImageLayout]::Zoom  # 设置图片自适应缩放
+}
+
+# 创建标签对象用于显示公告内容
+$label = New-Object System.Windows.Forms.Label
+$label.Location = New-Object System.Drawing.Point(0, 500)  # 设置标签位置
+$label.Size = New-Object System.Drawing.Size(520, 80)  # 设置标签大小
+$label.Text = "注意：开发者不对广告内容作任何担保"  # 设置标签文本
+
+$label.TextAlign = [System.Drawing.ContentAlignment]::TopCenter
+
+
+# 将标签添加到窗体控件中
+$form.Controls.Add($label0)
+$form.Controls.Add($label)
+
+# 显示窗体并等待用户关闭
+$form.ShowDialog()
+
+# 释放窗体资源
+$form.Dispose()
