@@ -156,7 +156,7 @@ $label9.BackColor = [System.Drawing.Color]::White
 
 # 设置窗体为全屏
 $Form.WindowState = [System.Windows.Forms.FormWindowState]::Maximized  # 最大化窗体
-$Form.TopMost = $true  # 确保窗体位于最上层
+#$Form.TopMost = $true  # 确保窗体位于最上层
 
 
 # 定义按钮点击事件处理函数
