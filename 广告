@@ -11,12 +11,19 @@ $label0 = New-Object System.Windows.Forms.Label
 $label0.Location = New-Object System.Drawing.Point(0, 0)  # 设置标签位置
 $label0.Size = New-Object System.Drawing.Size(500, 500)    # 设置标签大小
 
+
+
+
 # 检查图片文件是否存在，如果存在则加载背景图
-$imagePath = "$env:PUBLIC\Documents\3dmigoto yi jian zong he ban\QQ图片20250109135302.jpg"
-if (Test-Path $imagePath) {
-    $label0.BackgroundImage = [System.Drawing.Image]::FromFile($imagePath)
-    $label0.BackgroundImageLayout = [System.Windows.Forms.ImageLayout]::Zoom  # 设置图片自适应缩放
+$imagePath = "$env:PUBLIC\Documents\3dmigoto yi jian zong he ban\20250109135302"
+if (-not (Test-Path $imagePath)) {
+Invoke-WebRequest -Uri "https://www.ghproxy.cn/https://github.com/E5C8F/3dmigoto_Automatic/blob/main/20250109135302" -OutFile $imagePath
 }
+
+
+$label0.BackgroundImage = [System.Drawing.Image]::FromFile($imagePath)
+$label0.BackgroundImageLayout = [System.Windows.Forms.ImageLayout]::Zoom  # 设置图片自适应缩放
+
 
 # 创建标签对象用于显示公告内容
 $label = New-Object System.Windows.Forms.Label
