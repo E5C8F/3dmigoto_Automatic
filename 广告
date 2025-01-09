@@ -1,7 +1,6 @@
 
 
 
-
 # 引入 Windows Forms 程序集
 Add-Type -AssemblyName System.Windows.Forms
 
